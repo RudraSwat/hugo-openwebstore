@@ -1,3 +1,4 @@
 baseURL = "https://ubuntu-web.github.io/"
 languageCode = "en-us"
 title = "Open Web Store"
+theme = "whisper"
